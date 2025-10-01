@@ -1,0 +1,5 @@
+document.querySelectorAll('.labelControl .labelControlLabelCell')[0].style.whiteSpace = 'normal'
+document.querySelectorAll('.labelControl .labelControlLabelCell')[1].style.whiteSpace = 'normal'
+document.querySelectorAll('.labelControl .labelControlLabelCell')[2].style.whiteSpace = 'normal'
+document.querySelectorAll('.labelControl .labelControlLabelCell')[3].style.whiteSpace = 'normal'
+document.querySelectorAll('.labelControl .labelControlLabelCell')[4].style.whiteSpace = 'normal'
